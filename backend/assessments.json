@@ -1,0 +1,444 @@
+{
+  "8a7286f7-bd81-4dad-9d25-f9551a03e6e6": [
+    {
+      "createdAt": "2026-03-08T22:20:41.342946+00:00",
+      "answers": {
+        "userId": "8a7286f7-bd81-4dad-9d25-f9551a03e6e6",
+        "medical": {
+          "Do you have anxiety or depression?": true
+        },
+        "anxiety": {
+          "Are you currently under stress?": true,
+          "Did any specific event happen before the anxiety started?": true,
+          "Is there a family history of anxiety?": true,
+          "Have you ever experienced trauma?": true,
+          "Have your sleep habits changed recently?": true,
+          "Have your eating habits changed recently?": true,
+          "Do you consume caffeine regularly?": true,
+          "Do you avoid certain places because of anxiety?": true,
+          "Did you face strict parenting in childhood?": true,
+          "Do you often feel anxious without a clear reason?": false,
+          "Do you experience sudden panic attacks?": true,
+          "Do you avoid social situations due to fear?": true,
+          "Do you have intrusive thoughts?": true,
+          "Do you perform repetitive behaviors?": false,
+          "Do symptoms last a long time?": false,
+          "Do your symptoms occur frequently?": false,
+          "Have you experienced a traumatic event affecting sleep?": false,
+          "Do symptoms interfere with daily life?": false,
+          "Do you have coping methods?": true,
+          "Have you been diagnosed before?": false,
+          "Have you taken psychiatric medication before?": false
+        },
+        "mental": {
+          "How have you been feeling emotionally lately?": "very stressed and sad",
+          "Do you feel sad, empty, or hopeless?": true,
+          "Have you lost interest in activities you used to enjoy?": false,
+          "Do you feel constantly tense or anxious?": false,
+          "Do you experience sudden panic attacks?": false,
+          "Does anxiety interfere with your daily activities?": false,
+          "How is your sleep?": "12 hours",
+          "Do you have trouble falling asleep or staying asleep?": false,
+          "Do you sleep more than usual?": true,
+          "How is your energy level?": "low to medium",
+          "Do you feel tired most of the day?": true,
+          "Do you have difficulty concentrating?": true,
+          "Have you noticed any changes in your appetite?": true,
+          "Have you gained or lost weight unintentionally?": true,
+          "Do you have thoughts of being worthless or a burden on others?": true,
+          "Do you dwell on past mistakes?": true,
+          "Are you avoiding people or social situations?": false,
+          "Do you prefer to stay alone most of the time?": true,
+          "Do you believe someone is watching or trying to harm you?": false,
+          "Are your symptoms affecting your work, studies, or relationships?": false,
+          "Do you find it difficult to complete daily tasks?": true,
+          "Have you had thoughts of harming yourself?": true,
+          "Have you felt that you might harm others?": false
+        },
+        "createdAt": "2026-03-09T00:20:28.853853"
+      },
+      "analysis": {
+        "severity": "Moderate",
+        "diagnosis": "Generalized Anxiety Disorder (GAD) with Major Depressive Disorder (MDD)",
+        "anxietyScore": 42,
+        "symptoms": [
+          "persistent worry",
+          "panic attacks",
+          "social avoidance",
+          "intrusive thoughts"
+        ],
+        "riskFactors": [
+          "strict parenting in childhood",
+          "trauma history",
+          "chronic stress",
+          "poor sleep",
+          "poor nutrition"
+        ],
+        "therapy": {
+          "recommendedTechniques": {
+            "cognitive restructuring": [
+              "Identify negative thought patterns and challenge their validity through evidence-based questioning.",
+              "Replace catastrophic thoughts with balanced, realistic alternatives.",
+              "Practice daily journaling to track and modify distorted thinking."
+            ],
+            "exposure therapy": [
+              "Gradually confront feared situations in a controlled manner, starting with less anxiety-provoking scenarios.",
+              "Use a hierarchy to build tolerance, practicing each step until anxiety decreases.",
+              "Apply relaxation techniques during exposure to manage physiological responses."
+            ],
+            "behavioral activation": [
+              "Schedule enjoyable activities to counteract withdrawal and low mood.",
+              "Break tasks into small, manageable steps to improve daily functioning.",
+              "Track mood and activity levels to identify patterns and reinforce positive behaviors."
+            ]
+          },
+          "lifestyleChanges": {
+            "sleep hygiene": [
+              "Maintain a consistent sleep schedule, even on weekends.",
+              "Create a relaxing bedtime routine, avoiding screens and caffeine before bed.",
+              "Optimize the sleep environment for darkness and coolness."
+            ],
+            "nutrition": [
+              "Eat regular meals to stabilize blood sugar and mood.",
+              "Limit caffeine and sugar intake to reduce anxiety and energy crashes.",
+              "Include omega-3 fatty acids and B vitamins to support brain health."
+            ]
+          },
+          "copingStrategies": {
+            "mindfulness meditation": [
+              "Sit comfortably and focus on breath for 5 minutes daily.",
+              "Observe thoughts without judgment, gently returning to breath when distracted.",
+              "Use body scans to increase present-moment awareness and reduce rumination."
+            ],
+            "problem-solving": [
+              "Define the problem clearly and brainstorm potential solutions.",
+              "Evaluate pros and cons of each option, then implement the best choice.",
+              "Review the outcome and adjust strategies as needed."
+            ]
+          },
+          "medication": {
+            "education": {
+              "SSRI": [
+                "SSRI antidepressants work by increasing serotonin levels in the brain, improving mood and reducing anxiety over 4-6 weeks.",
+                "Typically prescribed for moderate to severe depression or anxiety, starting at a low dose and titrating up.",
+                "Common side effects include nausea, insomnia, or sexual dysfunction, which often subside within weeks."
+              ]
+            },
+            "notes": "Medication information is educational only. Patients must consult a licensed psychiatrist before using medication."
+          },
+          "adherence": 0.5
+        },
+        "medication": {
+          "education": [],
+          "notes": "informational only"
+        },
+        "adherence": 50
+      }
+    }
+  ],
+  "8f369411-95ba-4f1c-ac08-af147be0ed3f": [
+    {
+      "createdAt": "2026-03-08T22:40:59.823231+00:00",
+      "answers": {
+        "userId": "8f369411-95ba-4f1c-ac08-af147be0ed3f",
+        "medical": {
+          "Do you have diabetes?": true,
+          "Do you have stomach or colon problems?": true,
+          "Do you have joint or bone problems?": true,
+          "Do you have anxiety or depression?": true
+        },
+        "anxiety": {
+          "Is there a family history of anxiety?": true,
+          "Have your sleep habits changed recently?": true,
+          "Do you avoid social situations due to fear?": true,
+          "Did you face strict parenting in childhood?": true,
+          "Have you been diagnosed before?": true,
+          "Do symptoms last a long time?": true,
+          "Have you taken psychiatric medication before?": true
+        },
+        "mental": {
+          "Do you feel constantly tense or anxious?": true,
+          "Have you lost interest in activities you used to enjoy?": true,
+          "Does anxiety interfere with your daily activities?": true,
+          "Do you sleep more than usual?": true,
+          "Do you dwell on past mistakes?": true,
+          "Do you have thoughts of being worthless or a burden on others?": true,
+          "Have you noticed any changes in your appetite?": true,
+          "Do you have difficulty concentrating?": true,
+          "Do you find it difficult to complete daily tasks?": true,
+          "Are your symptoms affecting your work, studies, or relationships?": true,
+          "Do you believe someone is watching or trying to harm you?": true,
+          "Have you felt that you might harm others?": true
+        },
+        "createdAt": "2026-03-09T00:39:05.029535"
+      },
+      "analysis": {
+        "severity": "Severe",
+        "diagnosis": "Generalized Anxiety Disorder with comorbid depression",
+        "anxietyScore": 68,
+        "symptoms": [
+          "constant tension or anxiety",
+          "loss of interest in enjoyable activities",
+          "anxiety interfering with daily activities",
+          "increased sleep",
+          "dwelling on past mistakes",
+          "thoughts of worthlessness or being a burden",
+          "changes in appetite",
+          "difficulty concentrating",
+          "difficulty completing daily tasks",
+          "avoidance of social situations due to fear",
+          "long-lasting symptoms",
+          "family history of anxiety",
+          "previous psychiatric medication use"
+        ],
+        "riskFactors": [
+          "family history of anxiety",
+          "strict parenting in childhood",
+          "previous psychiatric diagnosis",
+          "previous psychiatric medication use",
+          "sleep habit changes"
+        ],
+        "therapy": {
+          "recommendedTechniques": {
+            "cognitive restructuring": [
+              "Identify anxious thoughts and write them down",
+              "Examine evidence for and against the thought",
+              "Challenge distorted thinking patterns",
+              "Replace with more balanced, realistic thoughts",
+              "Practice daily for 15\u201320 minutes"
+            ],
+            "progressive muscle relaxation": [
+              "Sit or lie down in a comfortable position",
+              "Tense each muscle group for 5 seconds",
+              "Release tension and notice the difference",
+              "Move from feet to head systematically",
+              "Practice twice daily for 15 minutes"
+            ],
+            "behavioral activation": [
+              "Schedule one enjoyable activity daily",
+              "Start with small, manageable tasks",
+              "Gradually increase activity difficulty",
+              "Track mood before and after activities",
+              "Aim for consistency rather than intensity"
+            ],
+            "worry time scheduling": [
+              "Set aside 20 minutes daily for worry",
+              "Write down worries during designated time",
+              "Postpone worries outside the scheduled time",
+              "Practice for 2 weeks to establish the habit"
+            ],
+            "graded exposure": [
+              "Create a fear hierarchy from least to most feared",
+              "Start with the least anxiety-provoking situation",
+              "Stay in the situation until anxiety decreases",
+              "Gradually work up the hierarchy over weeks"
+            ]
+          },
+          "lifestyleChanges": {
+            "sleep hygiene": [
+              "Maintain consistent sleep and wake times",
+              "Avoid screens 1 hour before bedtime",
+              "Keep bedroom dark and cool",
+              "Limit caffeine after 2 PM",
+              "Practice relaxation before bed"
+            ],
+            "physical exercise": [
+              "Start with 10-minute daily walks",
+              "Gradually increase to 30 minutes",
+              "Choose activities you enjoy",
+              "Exercise in the morning or afternoon",
+              "Track mood improvements"
+            ],
+            "nutrition": [
+              "Eat regular meals to stabilize blood sugar",
+              "Include omega-3 rich foods",
+              "Limit processed foods and sugar",
+              "Stay hydrated throughout the day",
+              "Consider vitamin D supplementation"
+            ]
+          },
+          "copingStrategies": {
+            "grounding techniques": [
+              "5-4-3-2-1 method: name 5 things you see, 4 you feel, 3 you hear, 2 you smell, 1 you taste",
+              "Hold an ice cube and focus on the sensation",
+              "Count backwards from 100 by 7s",
+              "Describe your environment in detail",
+              "Practice when feeling overwhelmed"
+            ],
+            "mindfulness meditation": [
+              "Sit comfortably and close your eyes",
+              "Focus on your breath for 5 minutes",
+              "Notice thoughts without judgment",
+              "Gently return to breath when distracted",
+              "Practice daily, gradually increasing time"
+            ],
+            "social support planning": [
+              "Identify 2\u20133 trusted people to contact",
+              "Prepare brief explanations of your needs",
+              "Schedule regular check-ins",
+              "Join support groups if available",
+              "Practice asking for help"
+            ]
+          }
+        },
+        "medication": {
+          "education": {
+            "SSRI": [
+              "Selective Serotonin Reuptake Inhibitors increase serotonin levels in the brain",
+              "Typically used for anxiety and depression",
+              "Takes 4\u20136 weeks to show full effect",
+              "Common side effects include nausea, sexual dysfunction, and sleep changes"
+            ],
+            "SNRI": [
+              "Serotonin-Norepinephrine Reuptake Inhibitors affect both serotonin and norepinephrine",
+              "Used for anxiety and depression",
+              "May work faster than SSRIs for some people",
+              "Side effects can include increased blood pressure and sweating"
+            ],
+            "Beta Blockers": [
+              "Block physical symptoms of anxiety like rapid heartbeat",
+              "Used for performance anxiety and panic symptoms",
+              "Taken as needed or daily depending on type",
+              "May cause fatigue and cold hands"
+            ],
+            "Buspirone": [
+              "Non-benzodiazepine anti-anxiety medication",
+              "Works gradually over 2\u20134 weeks",
+              "Non-habit forming",
+              "Less effective for severe anxiety"
+            ],
+            "Benzodiazepines": [
+              "Fast-acting anxiety relief within 30\u201360 minutes",
+              "Used for acute anxiety and panic attacks",
+              "High risk of dependence with long-term use",
+              "Withdrawal can be dangerous without medical supervision"
+            ]
+          },
+          "notes": "Medication information is educational only. Patients must consult a licensed psychiatrist before using medication."
+        },
+        "adherence": 0.4
+      }
+    },
+    {
+      "createdAt": "2026-03-08T22:53:30.351060+00:00",
+      "answers": {
+        "userId": "8f369411-95ba-4f1c-ac08-af147be0ed3f",
+        "medical": {
+          "Do you have diabetes?": true,
+          "Do you have stomach or colon problems?": true,
+          "Do you have joint or bone problems?": true,
+          "Do you have anxiety or depression?": true
+        },
+        "anxiety": {
+          "Is there a family history of anxiety?": true,
+          "Have your sleep habits changed recently?": true,
+          "Do you avoid social situations due to fear?": true,
+          "Did you face strict parenting in childhood?": true,
+          "Have you been diagnosed before?": true,
+          "Do symptoms last a long time?": true,
+          "Have you taken psychiatric medication before?": true
+        },
+        "mental": {
+          "Do you feel constantly tense or anxious?": true,
+          "Have you lost interest in activities you used to enjoy?": true,
+          "Does anxiety interfere with your daily activities?": true,
+          "Do you sleep more than usual?": true,
+          "Do you dwell on past mistakes?": true,
+          "Do you have thoughts of being worthless or a burden on others?": true,
+          "Have you noticed any changes in your appetite?": true,
+          "Do you have difficulty concentrating?": true,
+          "Do you find it difficult to complete daily tasks?": true,
+          "Are your symptoms affecting your work, studies, or relationships?": true,
+          "Do you believe someone is watching or trying to harm you?": true,
+          "Have you felt that you might harm others?": true
+        },
+        "createdAt": "2026-03-09T00:39:58.518434"
+      },
+      "analysis": {
+        "severity": "Severe",
+        "diagnosis": "Social Anxiety Disorder and Generalized Anxiety Disorder",
+        "anxietyScore": 72,
+        "symptoms": [
+          "persistent worry",
+          "avoidance of social situations",
+          "intrusive thoughts",
+          "repetitive behaviors",
+          "fatigue",
+          "sleep disruption",
+          "concentration problems",
+          "emotional distress",
+          "isolation",
+          "loss of interest in activities",
+          "paranoia",
+          "thoughts of worthlessness"
+        ],
+        "riskFactors": [
+          "family history of anxiety",
+          "strict parenting in childhood",
+          "prior psychiatric diagnosis",
+          "chronic stress"
+        ],
+        "therapy": {
+          "recommendedTechniques": {
+            "exposure therapy": [
+              "Start with imagining social situations that cause anxiety, then gradually move to real-life interactions. Begin with less threatening scenarios and build up. Practice for 15 minutes daily.",
+              "Expected benefit: Reduces avoidance and fear over time."
+            ],
+            "cognitive restructuring": [
+              "Identify negative thoughts about social interactions. Write them down. Challenge these thoughts with evidence. Replace with balanced thoughts. Practice daily for 10 minutes.",
+              "Expected benefit: Reduces distorted thinking and anxiety."
+            ],
+            "relaxation techniques": [
+              "Practice deep breathing exercises for 5 minutes twice daily. Use progressive muscle relaxation before bed.",
+              "Expected benefit: Lowers physiological arousal."
+            ]
+          },
+          "lifestyleChanges": {
+            "regular exercise": [
+              "Engage in 30 minutes of moderate exercise, 5 days a week. Choose activities like walking, swimming, or yoga.",
+              "Benefit: Reduces anxiety and improves mood."
+            ],
+            "sleep hygiene": [
+              "Maintain consistent sleep schedule. Avoid screens 1 hour before bed. Create a restful environment.",
+              "Benefit: Improves sleep quality and reduces fatigue."
+            ]
+          },
+          "copingStrategies": {
+            "grounding techniques": [
+              "Use the 5-4-3-2-1 method when feeling overwhelmed. Name 5 things you see, 4 you feel, 3 you hear, 2 you smell, 1 you taste.",
+              "Benefit: Manages acute anxiety and paranoia."
+            ],
+            "problem-solving": [
+              "Break daily tasks into small steps. Prioritize tasks. Use checklists. Practice for 10 minutes daily.",
+              "Benefit: Improves daily functioning and reduces overwhelm."
+            ]
+          }
+        },
+        "medication": {
+          "education": {
+            "SSRI": [
+              "How it works: Increases serotonin levels in the brain.",
+              "When used: For moderate to severe anxiety and depression.",
+              "Possible side effects: Nausea, headache, sexual dysfunction.",
+              "Safety considerations: Requires prescription and monitoring."
+            ],
+            "SNRI": [
+              "How it works: Increases serotonin and norepinephrine levels.",
+              "When used: For anxiety and depression.",
+              "Possible side effects: Dizziness, dry mouth, increased heart rate.",
+              "Safety considerations: Monitor for suicidal ideation in youth."
+            ],
+            "Benzodiazepines": [
+              "How it works: Enhances GABA activity to reduce anxiety.",
+              "When used: For acute anxiety episodes.",
+              "Possible side effects: Drowsiness, dependence, withdrawal.",
+              "Safety considerations: Short-term use only; avoid with alcohol."
+            ]
+          },
+          "notes": "Medication information is educational only. Patients must consult a licensed psychiatrist before using medication."
+        },
+        "adherence": 0.8
+      }
+    }
+  ]
+}

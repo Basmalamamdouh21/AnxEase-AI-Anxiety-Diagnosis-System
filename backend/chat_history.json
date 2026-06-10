@@ -1,0 +1,27 @@
+{
+  "8a7286f7-bd81-4dad-9d25-f9551a03e6e6": {
+    "chats": {
+      "1773009063632": {
+        "summary": "",
+        "messages": [
+          {
+            "role": "user",
+            "content": "hello"
+          },
+          {
+            "role": "assistant",
+            "content": "Hello there! How are you feeling today? I'm here to chat about anything on your mind\u2014whether it's stress, emotions, or just a general thought. I'm glad you reached out. How can I support you today?"
+          },
+          {
+            "role": "user",
+            "content": "how to sleep well"
+          },
+          {
+            "role": "assistant",
+            "content": "I'm here with you. What would you like to talk about?"
+          }
+        ]
+      }
+    }
+  }
+}
